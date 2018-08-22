@@ -1,3 +1,3 @@
 layout: tags
-comments: false
+comments: true
 ---
